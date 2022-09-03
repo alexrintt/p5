@@ -10,7 +10,7 @@ Create lightning effect through generation of random line segments.
 
 <kbd><img src="https://user-images.githubusercontent.com/51419598/188287580-1e86f953-d5f1-4910-beae-1c0e93062e50.gif"></kbd>
 
-## <samp>[Lightning by sine and perlin noise](https://editor.p5js.org/alexrintt/sketches/Pq8pH5eGZ)</samp>
+## <samp>[Lightning by sine and perlin noise](https://editor.p5js.org/alexrintt/sketches/UVdcShVG4)</samp>
 
 <sub>[Inspiration](https://twitter.com/SoerbGames/status/1565339561009770500) from Twitter.</sub>
 
