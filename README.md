@@ -42,3 +42,5 @@ How to find the circumscribed regular hexagon side length from a given rectangle
 <h6><samp>Fig.2 - p5.js sketch visual result.</samp></h6>
 <kbd><img height="400" src="https://user-images.githubusercontent.com/51419598/189790154-a39cedc7-fda9-4245-82e9-d620278466dd.png"></kbd>
 
+<h6><samp>Fig.3 - p5.js animated sketch visual result.</samp></h6>
+<kbd><img height="400" src="https://user-images.githubusercontent.com/51419598/189822516-281d84cb-800b-45a3-8d06-4675dd02d38f.gif"></kbd>
